@@ -11,9 +11,7 @@ fun main(args: Array<String>) {
     // Numbers
     // Booleans
     // Chars
-
     // Strings
-
     // Arrays
 
     // Comments
@@ -34,9 +32,10 @@ fun main(args: Array<String>) {
 
     // Intantiating classes
     // Referential equality and structural equality
-    // This expression
 
+    // This expression
     // Scope
+
     // Visibility modifiers
     // Private
     // Protected
@@ -45,14 +44,12 @@ fun main(args: Array<String>) {
     // Control flow as expressions
 
     // Null syntax
-
     // Smart casts
     // Explicit casting
 
     // When expression
     // When (value)
     // When without argument
-
     // Function Return
 
     // Type hierarchy
