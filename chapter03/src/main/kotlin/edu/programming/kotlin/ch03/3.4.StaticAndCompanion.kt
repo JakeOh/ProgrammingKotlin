@@ -7,4 +7,9 @@ fun main(args: Array<String>) {
 
     Singleton.doSomething()
     Singleton.doSomething()
+
+    SingletonDerived.doSomething()
+
+    val student = Student.create("Alex Smith")
+    println("student name: ${student.name}")
 }
